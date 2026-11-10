@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Alok Kumar 👋
 
-<!--
-**aloksahu0408-design/aloksahu0408-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at Lovely Professional University.
 
-Here are some ideas to get you started:
+💻 I am learning programming and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+* 🌱 Currently learning Python, HTML, CSS and JavaScript.
+* 🔭 Interested in Software Development and Technology.
+* 🛠️ Working on practical projects to improve my skills.
+* 🎯 Goal: Become a skilled Software Developer.
+
+Skills
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Firebase
+* Problem Solving
+
+Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/alok-kumar-1b633344a/
